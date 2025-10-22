@@ -1,2 +1,3 @@
-# TT-Stats
-TT Matchup Stats App for La Familia Discord
+# Table Tennis API
+
+A web application for aggregating and analyzing professional table tennis data.
